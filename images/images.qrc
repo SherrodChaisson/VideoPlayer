@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>JT_LEFT.png</file>
+        <file>JT_RIGHT.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>openfile.png</file>
+        <file>soundclose.png</file>
+        <file>soundopen.png</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>

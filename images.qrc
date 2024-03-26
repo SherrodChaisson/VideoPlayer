@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/jlu.png</file>
+        <file>images/cxk.png</file>
+        <file>images/next.png</file>
+        <file>images/prior.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/file.png</file>
+        <file>images/volumeadd.png</file>
+        <file>images/volumeclose.png</file>
+        <file>images/volumesub.png</file>
+        <file>images/back.png</file>
+        <file>images/background.jpg</file>
+    </qresource>
+</RCC>
